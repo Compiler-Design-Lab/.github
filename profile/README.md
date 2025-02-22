@@ -1,47 +1,41 @@
-Here’s a professional README template designed for your group members, focusing on their skills. I’ve formatted it to give a clean, organized look that you can use for your project or portfolio.
-
----
-
 # Group Members' Skillset Overview
 
 ## **Team Members:**
-- **Md. Sajjad Mojumder Anik** - 221-15-5640  
-- **Sabiba Israt Zerin** - 221-15-5887  
-- **Md Hasanur Miah** - 221-15-4991  
-- **Md. Foysal Sheikh** - 221-15-4865
+- **Kabir Ahmed Ridoy** - 221-15-4874 (Team Leader)  
+- **Rokshana Talukder** - 221-15-4904  
+- **Md. Ashraful Alam Rayhan** - 221-15-xxxx  
+- **Md. Arman Islam Payel** - 221-15-4865  
 
 ---
 
 ## **Skills Breakdown**
 
-### **Md. Sajjad Mojumder Anik**
+### **Kabir Ahmed Ridoy**
 - **Front-End Development:**
-  - React (Beginner Level)
-  - HTML, CSS, Tailwind CSS, JavaScript (Beginner Level)
+  - React, NextJS
+  - HTML, CSS, Tailwind CSS, JavaScript, Redux
+- **Back-End Development:**
+  - NodeJS, Express, MongoDB, PostgreSQL, NestJS, Prisma, TypeScript
+- **App Development:**
+  - Flutter
 - **Research:**
-  - Machine Learning (Basic Knowledge)
+  - Machine Learning
 - **UI/UX Design:**
   - Figma
-- **Graphic Design:**
-  - Adobe Photoshop
-  - Adobe Illustrator
-- **Video Editing:**
-  - Filmora
-  - PowerDirector
+- **Others:**
+  - C, C++, Python, Java, Git & GitHub
 
-### **Sabiba Israt Zerin**
+### **Rokshana Talukder**
 - **Front-End Development:**
-  - React
-  - HTML, CSS, Tailwind CSS
+  - React, HTML, CSS, Tailwind CSS
 - **Research:**
   - General Research Experience
 - **UI/UX Design:**
   - Figma
 - **Tools & Software:**
-  - PowerPoint
-  - Excel
+  - PowerPoint, Excel
 
-### **Md Hasanur Miah**
+### **Md. Ashraful Alam Rayhan**
 - **Video Editing:**
   - Photography, Videography
 - **Basic Front-End Development:**
@@ -53,7 +47,7 @@ Here’s a professional README template designed for your group members, focusin
 - **Additional Skills:**
   - Volunteering Experience
 
-### **Md. Foysal Sheikh**
+### **Md. Arman Islam Payel**
 - **Front-End Development:**
   - HTML, CSS
 - **Research:**
@@ -69,18 +63,18 @@ Here’s a professional README template designed for your group members, focusin
 
 ## **Summary of Skills:**
 
-- **Front-End Development:** All team members have some level of expertise in HTML, CSS, React, and Tailwind CSS.
-- **Research in Machine Learning:** Several members have experience with machine learning concepts.
-- **UI/UX Design:** Figma proficiency among the team, with some experience in Adobe tools for design.
-- **Video Editing & Graphic Design:** The team is proficient in tools like Adobe Photoshop, Final Cut Pro, PowerDirector, and Filmora.
-- **Productivity Tools:** Strong knowledge of office productivity software like Word, Excel, and PowerPoint.
+- **Front-End Development:** All team members have expertise in HTML, CSS, React, and Tailwind CSS.
+- **Research in Machine Learning:** Several members have experience in machine learning.
+- **UI/UX Design:** Figma proficiency and experience with Adobe design tools.
+- **Video Editing & Graphic Design:** Proficiency in tools like Adobe Photoshop, Final Cut Pro, and PowerDirector.
+- **Productivity Tools:** Strong skills in office productivity tools like Word, Excel, and PowerPoint.
 
 ---
 
 ## **Tools & Technologies:**
 
 - **Development Tools:**
-  - HTML, CSS, React, JavaScript, Tailwind CSS
+  - HTML, CSS, React, JavaScript, Tailwind CSS, Redux, NodeJS, Express, MongoDB, PostgreSQL, NestJS, Prisma, TypeScript, Flutter
 - **Design & Editing Tools:**
   - Figma, Adobe Photoshop, Adobe Illustrator, Final Cut Pro, Filmora, PowerDirector
 - **Office Tools:**
@@ -89,13 +83,13 @@ Here’s a professional README template designed for your group members, focusin
 ---
 
 ## **About Us:**
-We are a diverse team with skills across various domains such as front-end development, UI/UX design, machine learning research, and video editing. We collaborate effectively to ensure the success of our projects, combining our strengths to deliver high-quality results.
+We are a dynamic team with diverse skill sets spanning front-end development, back-end technologies, UI/UX design, machine learning research, video editing, and graphic design. Our collective experience allows us to tackle complex challenges and create high-quality solutions through collaboration and teamwork.
 
 ---
 
 ## **Contact Information:**
-For collaboration or inquiries, please reach out to the respective team members.
-
----
-
-Let me know if you need any further adjustments!
+For collaboration or inquiries, feel free to contact the respective team members:
+- **Kabir Ahmed Ridoy** (Team Leader) - [kabir.ahmed.ridoy@example.com](mailto:kabir.ahmed.ridoy@example.com)
+- **Rokshana Talukder** - [rokshana.talukder@example.com](mailto:rokshana.talukder@example.com)
+- **Md. Ashraful Alam Rayhan** - [ashraful.rayhan@example.com](mailto:ashraful.rayhan@example.com)
+- **Md. Arman Islam Payel** - [arman.payel@example.com](mailto:arman.payel@example.com)
