@@ -17,7 +17,7 @@
 - **Back-End Development:**
   - NodeJS, Express, MongoDB, PostgreSQL, NestJS, Prisma, TypeScript
 - **App Development:**
-  - Flutter
+  - Flutter -> Learning
 - **Research:**
   - Machine Learning
 - **UI/UX Design:**
@@ -27,7 +27,7 @@
 
 ### **Rokshana Talukder**
 - **Development:**
-  - Software Quality Assurance (SQA)
+  - Software Quality Assurance (SQA) -> Learning
 - **Research:**
   - Machine Learning
 
@@ -37,7 +37,7 @@
 
 ### **Md. Arman Islam Payel**
 - **App Development:**
-  - Flutter
+  - Flutter -> Learning
 
 ---
 
