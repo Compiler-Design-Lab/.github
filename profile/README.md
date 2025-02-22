@@ -75,7 +75,7 @@ Our focus is on collaboration, continuous learning, and delivering solutions tha
 
 For collaboration or inquiries, feel free to contact the respective team members:
 
-- **Kabir Ahmed Ridoy** (Team Leader) - [kabir.ahmed.ridoy@example.com](mailto:kabir.ahmed.ridoy@example.com)
-- **Rokshana Talukder** - [rokshana.talukder@example.com](mailto:rokshana.talukder@example.com)
+- **Kabir Ahmed Ridoy** (Team Leader) - [kabir.cse.bd@gmail.com](mailto:kabir.cse.bd@gmail.com)
+- **Rokshana Talukder** - [talukder15-4904@diu.edu.bd](mailto:talukder15-4904@diu.edu.bd)
 - **Md. Ashraful Alam Rayhan** - [ashraful.rayhan@example.com](mailto:ashraful.rayhan@example.com)
 - **Md. Arman Islam Payel** - [arman.payel@example.com](mailto:arman.payel@example.com)
